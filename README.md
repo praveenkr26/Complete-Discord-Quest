@@ -1,58 +1,13 @@
 # Complete-Discord-Quest
 
-# CompleteDiscordQuest.md
 
 ## Requirements
 
 * Discord Desktop LTB App [Download](https://discord.com/api/download/ptb?platform=win)
-* Developer Tools Enabled
+
 * Active Quest Accepted
 
 ---
-
-## Enable DevTools
-
-Press:
-
-```txt
-Win + R
-```
-
-Type:
-
-```txt
-%appdata%
-```
-
-Open:
-
-```txt
-Discord → settings.json
-```
-
-Replace file content with your configuration.
-
-```
-
-{
-  "IS_MAXIMIZED": true,
-  "IS_MINIMIZED": false,
-  "WINDOW_BOUNDS": {
-    "x": 112,
-    "y": 60,
-    "width": 1284,
-    "height": 724
-  },
-  "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true,
-  "MIN_WIDTH": 940,
-  "MIN_HEIGHT": 500,
-  "chromiumSwitches": {}
-}
-```
-
----
-
-## Open Developer Console
 
 1. Open **Discord Desktop App**
 2. Go to **Quests**
@@ -68,6 +23,9 @@ Ctrl + Shift + I
 ---
 
 ## Script
+
+step 1 :- allow pasting
+step 2 :- copy below code and paste
 
 <details>
 <summary>📜 Click to expand code</summary>

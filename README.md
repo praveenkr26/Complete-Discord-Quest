@@ -23,9 +23,7 @@ Ctrl + Shift + I
 ---
 
 ## Script
-
-step 1 :- allow pasting
-step 2 :- copy below code and paste
+paste it in Console:- allow pasting
 ---
 <details>
 <summary>📜 Click to expand code</summary>

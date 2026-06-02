@@ -3,7 +3,7 @@
 
 ## Requirements
 
-* Discord Desktop LTB App [Download](https://discord.com/api/download/ptb?platform=win)
+* Discord Desktop PTB App [Download](https://discord.com/api/download/ptb?platform=win)
 
 * Active Quest Accepted
 

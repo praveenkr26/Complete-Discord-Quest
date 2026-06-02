@@ -23,10 +23,10 @@ Ctrl + Shift + I
 ---
 
 ## Script
-
+---
 step 1 :- allow pasting
 step 2 :- copy below code and paste
-
+---
 <details>
 <summary>📜 Click to expand code</summary>
 

@@ -1,5 +1,6 @@
 # Complete-Discord-Quest
 
+Watch Video: https://youtu.be/9qvGIqGzKmU
 
 ## Requirements
 
